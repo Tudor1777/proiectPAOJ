@@ -1,2 +1,19 @@
 Lista actiuni:
+ - Deschidere cont pentru un client nou
+ - Depunere in cont
+ - Extragere in cont
+ - Transfer intre conturi
+ - Verificare sold
+ - Creare, afisare carduri 
+ - Istoric de plati
+
 Lista obiecte:
+ - Utilizator
+     - Angajat
+     - Client
+ - Cont bancar
+     - Cont Curent
+     - Cont Economii
+ - Tranzactie
+ - Card Credit/Debit
+
